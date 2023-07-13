@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://x2vdiouj6wi5"
+path="res://.godot/imported/SM_Chr_Attach_Hat_FlatTop_01.obj-31b80aabe221e09c650316705f96bfac.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Chr_Attach_Hat_FlatTop_01.obj-31b80aabe221e09c650316705f96bfac.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Chr_Attach_Hat_FlatTop_01.obj"
+dest_files=["res://.godot/imported/SM_Chr_Attach_Hat_FlatTop_01.obj-31b80aabe221e09c650316705f96bfac.mesh", "res://.godot/imported/SM_Chr_Attach_Hat_FlatTop_01.obj-31b80aabe221e09c650316705f96bfac.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

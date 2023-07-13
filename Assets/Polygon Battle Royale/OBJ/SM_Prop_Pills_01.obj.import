@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ds4xc0oa8t2wu"
+path="res://.godot/imported/SM_Prop_Pills_01.obj-c5e1a10abacae795f00eda9da525b391.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Pills_01.obj-c5e1a10abacae795f00eda9da525b391.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Prop_Pills_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_Pills_01.obj-c5e1a10abacae795f00eda9da525b391.mesh", "res://.godot/imported/SM_Prop_Pills_01.obj-c5e1a10abacae795f00eda9da525b391.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

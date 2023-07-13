@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://q87errq0tcpo"
+path="res://.godot/imported/SM_Wep_Shotgun_Ammo_Pile_01.obj-b76db989b88d04892385bd14bf88de14.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Wep_Shotgun_Ammo_Pile_01.obj-b76db989b88d04892385bd14bf88de14.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Wep_Shotgun_Ammo_Pile_01.obj"
+dest_files=["res://.godot/imported/SM_Wep_Shotgun_Ammo_Pile_01.obj-b76db989b88d04892385bd14bf88de14.mesh", "res://.godot/imported/SM_Wep_Shotgun_Ammo_Pile_01.obj-b76db989b88d04892385bd14bf88de14.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

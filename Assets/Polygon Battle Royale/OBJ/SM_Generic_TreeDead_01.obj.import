@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cye8b1tmdqo5u"
+path="res://.godot/imported/SM_Generic_TreeDead_01.obj-e663e8080f386d5a0d8339da9949863a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Generic_TreeDead_01.obj-e663e8080f386d5a0d8339da9949863a.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Generic_TreeDead_01.obj"
+dest_files=["res://.godot/imported/SM_Generic_TreeDead_01.obj-e663e8080f386d5a0d8339da9949863a.mesh", "res://.godot/imported/SM_Generic_TreeDead_01.obj-e663e8080f386d5a0d8339da9949863a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

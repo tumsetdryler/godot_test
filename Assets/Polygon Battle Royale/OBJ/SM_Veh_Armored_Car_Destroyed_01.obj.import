@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bkjvgioy18p0t"
+path="res://.godot/imported/SM_Veh_Armored_Car_Destroyed_01.obj-adc51d4431fbb9a824139878ee171496.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Veh_Armored_Car_Destroyed_01.obj-adc51d4431fbb9a824139878ee171496.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Veh_Armored_Car_Destroyed_01.obj"
+dest_files=["res://.godot/imported/SM_Veh_Armored_Car_Destroyed_01.obj-adc51d4431fbb9a824139878ee171496.mesh", "res://.godot/imported/SM_Veh_Armored_Car_Destroyed_01.obj-adc51d4431fbb9a824139878ee171496.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

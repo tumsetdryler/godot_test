@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://chm7dy61osqtp"
+path="res://.godot/imported/SM_Chr_Attach_Hat_Roadcone_01.obj-e9ed96c04a5b70a3a639d606872c0858.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Chr_Attach_Hat_Roadcone_01.obj-e9ed96c04a5b70a3a639d606872c0858.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Chr_Attach_Hat_Roadcone_01.obj"
+dest_files=["res://.godot/imported/SM_Chr_Attach_Hat_Roadcone_01.obj-e9ed96c04a5b70a3a639d606872c0858.mesh", "res://.godot/imported/SM_Chr_Attach_Hat_Roadcone_01.obj-e9ed96c04a5b70a3a639d606872c0858.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dqal44xgvtriv"
+path="res://.godot/imported/SM_Env_Rubble_Pebbles_03.obj-2ff2ea9f88bf812e12e77fdee0f8c530.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Env_Rubble_Pebbles_03.obj-2ff2ea9f88bf812e12e77fdee0f8c530.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Env_Rubble_Pebbles_03.obj"
+dest_files=["res://.godot/imported/SM_Env_Rubble_Pebbles_03.obj-2ff2ea9f88bf812e12e77fdee0f8c530.mesh", "res://.godot/imported/SM_Env_Rubble_Pebbles_03.obj-2ff2ea9f88bf812e12e77fdee0f8c530.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

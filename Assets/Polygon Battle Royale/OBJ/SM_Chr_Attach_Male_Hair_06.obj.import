@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://by06kn7lrytta"
+path="res://.godot/imported/SM_Chr_Attach_Male_Hair_06.obj-10a3fab8a65a3faea8422f4b296c84df.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Chr_Attach_Male_Hair_06.obj-10a3fab8a65a3faea8422f4b296c84df.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Chr_Attach_Male_Hair_06.obj"
+dest_files=["res://.godot/imported/SM_Chr_Attach_Male_Hair_06.obj-10a3fab8a65a3faea8422f4b296c84df.mesh", "res://.godot/imported/SM_Chr_Attach_Male_Hair_06.obj-10a3fab8a65a3faea8422f4b296c84df.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

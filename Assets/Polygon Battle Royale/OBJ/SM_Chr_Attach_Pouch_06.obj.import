@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bqnrvsejqlnec"
+path="res://.godot/imported/SM_Chr_Attach_Pouch_06.obj-e813db2a7da9c1d44061947bfc0f4264.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Chr_Attach_Pouch_06.obj-e813db2a7da9c1d44061947bfc0f4264.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Chr_Attach_Pouch_06.obj"
+dest_files=["res://.godot/imported/SM_Chr_Attach_Pouch_06.obj-e813db2a7da9c1d44061947bfc0f4264.mesh", "res://.godot/imported/SM_Chr_Attach_Pouch_06.obj-e813db2a7da9c1d44061947bfc0f4264.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

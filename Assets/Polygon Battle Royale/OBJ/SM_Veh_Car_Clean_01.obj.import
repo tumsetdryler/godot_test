@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dt2gvdb80xgdl"
+path="res://.godot/imported/SM_Veh_Car_Clean_01.obj-a5e134a9cb6cd418c1cf715359f5d0cf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Veh_Car_Clean_01.obj-a5e134a9cb6cd418c1cf715359f5d0cf.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Veh_Car_Clean_01.obj"
+dest_files=["res://.godot/imported/SM_Veh_Car_Clean_01.obj-a5e134a9cb6cd418c1cf715359f5d0cf.mesh", "res://.godot/imported/SM_Veh_Car_Clean_01.obj-a5e134a9cb6cd418c1cf715359f5d0cf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

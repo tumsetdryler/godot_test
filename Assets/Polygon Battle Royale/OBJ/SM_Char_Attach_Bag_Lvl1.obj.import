@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://budaocdabt3qp"
+path="res://.godot/imported/SM_Char_Attach_Bag_Lvl1.obj-33112a8c17619dabed21123fca8055cc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Char_Attach_Bag_Lvl1.obj-33112a8c17619dabed21123fca8055cc.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Char_Attach_Bag_Lvl1.obj"
+dest_files=["res://.godot/imported/SM_Char_Attach_Bag_Lvl1.obj-33112a8c17619dabed21123fca8055cc.mesh", "res://.godot/imported/SM_Char_Attach_Bag_Lvl1.obj-33112a8c17619dabed21123fca8055cc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

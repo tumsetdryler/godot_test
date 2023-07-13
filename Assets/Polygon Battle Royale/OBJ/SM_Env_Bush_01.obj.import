@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ds807vg031wc1"
+path="res://.godot/imported/SM_Env_Bush_01.obj-fa5b6056f9423a2cbacb8d7e0cf37785.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Env_Bush_01.obj-fa5b6056f9423a2cbacb8d7e0cf37785.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Env_Bush_01.obj"
+dest_files=["res://.godot/imported/SM_Env_Bush_01.obj-fa5b6056f9423a2cbacb8d7e0cf37785.mesh", "res://.godot/imported/SM_Env_Bush_01.obj-fa5b6056f9423a2cbacb8d7e0cf37785.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

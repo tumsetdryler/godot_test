@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bkh3w2c45xnpa"
+path="res://.godot/imported/SM_Chr_Patch_Rank_02.obj-b397a2b1ac7179b6545824197d555bec.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Chr_Patch_Rank_02.obj-b397a2b1ac7179b6545824197d555bec.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Chr_Patch_Rank_02.obj"
+dest_files=["res://.godot/imported/SM_Chr_Patch_Rank_02.obj-b397a2b1ac7179b6545824197d555bec.mesh", "res://.godot/imported/SM_Chr_Patch_Rank_02.obj-b397a2b1ac7179b6545824197d555bec.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://js067nnysg1l"
+path="res://.godot/imported/SM_Wep_Crosshair_Sniper_01.obj-55f98fe85cbe2d4cfc587768aaf7d550.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Wep_Crosshair_Sniper_01.obj-55f98fe85cbe2d4cfc587768aaf7d550.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Wep_Crosshair_Sniper_01.obj"
+dest_files=["res://.godot/imported/SM_Wep_Crosshair_Sniper_01.obj-55f98fe85cbe2d4cfc587768aaf7d550.mesh", "res://.godot/imported/SM_Wep_Crosshair_Sniper_01.obj-55f98fe85cbe2d4cfc587768aaf7d550.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

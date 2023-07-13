@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://tcvk20qlm3f7"
+path="res://.godot/imported/SM_Prop_BunkBed_01.obj-a7af82e52384bd0af5c4b252aca14a1f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_BunkBed_01.obj-a7af82e52384bd0af5c4b252aca14a1f.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Prop_BunkBed_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_BunkBed_01.obj-a7af82e52384bd0af5c4b252aca14a1f.mesh", "res://.godot/imported/SM_Prop_BunkBed_01.obj-a7af82e52384bd0af5c4b252aca14a1f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

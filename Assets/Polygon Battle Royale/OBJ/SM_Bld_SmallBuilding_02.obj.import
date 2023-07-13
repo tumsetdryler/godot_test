@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cbvjhepyq7rrm"
+path="res://.godot/imported/SM_Bld_SmallBuilding_02.obj-d8a3c505a6ef4f2c39ce5c9b3d49975e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Bld_SmallBuilding_02.obj-d8a3c505a6ef4f2c39ce5c9b3d49975e.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Bld_SmallBuilding_02.obj"
+dest_files=["res://.godot/imported/SM_Bld_SmallBuilding_02.obj-d8a3c505a6ef4f2c39ce5c9b3d49975e.mesh", "res://.godot/imported/SM_Bld_SmallBuilding_02.obj-d8a3c505a6ef4f2c39ce5c9b3d49975e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

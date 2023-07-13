@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cudva0o31wxkm"
+path="res://.godot/imported/SM_Wep_Pistol_Revolver_01.obj-3356f205e7d79ca2e0dbf65e06496eee.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Wep_Pistol_Revolver_01.obj-3356f205e7d79ca2e0dbf65e06496eee.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Wep_Pistol_Revolver_01.obj"
+dest_files=["res://.godot/imported/SM_Wep_Pistol_Revolver_01.obj-3356f205e7d79ca2e0dbf65e06496eee.mesh", "res://.godot/imported/SM_Wep_Pistol_Revolver_01.obj-3356f205e7d79ca2e0dbf65e06496eee.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

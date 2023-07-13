@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://kwkkgehqqxpp"
+path="res://.godot/imported/SM_Prop_Cinderblock_Wall_01.obj-5c0b830dff95228c6c66c96e0e0330ef.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Cinderblock_Wall_01.obj-5c0b830dff95228c6c66c96e0e0330ef.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Prop_Cinderblock_Wall_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_Cinderblock_Wall_01.obj-5c0b830dff95228c6c66c96e0e0330ef.mesh", "res://.godot/imported/SM_Prop_Cinderblock_Wall_01.obj-5c0b830dff95228c6c66c96e0e0330ef.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

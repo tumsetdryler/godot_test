@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://csc41c7jfbvx2"
+path="res://.godot/imported/SM_Chr_Attach_Hat_Cap_01.obj-7dcddc76c565a4ef378b62d6750ae296.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Chr_Attach_Hat_Cap_01.obj-7dcddc76c565a4ef378b62d6750ae296.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Chr_Attach_Hat_Cap_01.obj"
+dest_files=["res://.godot/imported/SM_Chr_Attach_Hat_Cap_01.obj-7dcddc76c565a4ef378b62d6750ae296.mesh", "res://.godot/imported/SM_Chr_Attach_Hat_Cap_01.obj-7dcddc76c565a4ef378b62d6750ae296.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

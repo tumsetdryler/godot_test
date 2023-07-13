@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dovbthmjbvtsv"
+path="res://.godot/imported/SM_Prop_Transformer_01.obj-e160e735b7ea05a991b7f10b8fbbf4da.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Transformer_01.obj-e160e735b7ea05a991b7f10b8fbbf4da.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Prop_Transformer_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_Transformer_01.obj-e160e735b7ea05a991b7f10b8fbbf4da.mesh", "res://.godot/imported/SM_Prop_Transformer_01.obj-e160e735b7ea05a991b7f10b8fbbf4da.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

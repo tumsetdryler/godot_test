@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cb4lqr5byyy1a"
+path="res://.godot/imported/SM_Wep_Crosshair_05.obj-48af6a1d7409756d6fea2d2a964876c5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Wep_Crosshair_05.obj-48af6a1d7409756d6fea2d2a964876c5.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Wep_Crosshair_05.obj"
+dest_files=["res://.godot/imported/SM_Wep_Crosshair_05.obj-48af6a1d7409756d6fea2d2a964876c5.mesh", "res://.godot/imported/SM_Wep_Crosshair_05.obj-48af6a1d7409756d6fea2d2a964876c5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

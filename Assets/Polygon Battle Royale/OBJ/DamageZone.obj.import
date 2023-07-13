@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b0jk5e5n7xtcn"
+path="res://.godot/imported/DamageZone.obj-8fceb7ce23f4a2f10c571e6052f6f8d9.mesh"
+
+[deps]
+
+files=["res://.godot/imported/DamageZone.obj-8fceb7ce23f4a2f10c571e6052f6f8d9.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/DamageZone.obj"
+dest_files=["res://.godot/imported/DamageZone.obj-8fceb7ce23f4a2f10c571e6052f6f8d9.mesh", "res://.godot/imported/DamageZone.obj-8fceb7ce23f4a2f10c571e6052f6f8d9.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

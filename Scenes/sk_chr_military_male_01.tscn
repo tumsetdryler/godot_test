@@ -1,0 +1,12 @@
+[gd_scene load_steps=4 format=3 uid="uid://b050mtqlm6p7w"]
+
+[ext_resource type="PackedScene" uid="uid://cjxv4us1m0gmf" path="res://Assets/Polygon Battle Royale/Characters/SK_Chr_MilitaryMale_01.fbx" id="1_hbsk3"]
+[ext_resource type="Texture2D" uid="uid://b2gemkhyjdcwn" path="res://Assets/Polygon Battle Royale/Textures/PolygonBattleRoyale_Texture_01_A.png" id="2_eemmi"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ccj5k"]
+albedo_texture = ExtResource("2_eemmi")
+
+[node name="SK_Chr_MilitaryMale_01" instance=ExtResource("1_hbsk3")]
+
+[node name="SK_Chr_MilitaryMale_01" parent="RootNode/Root/Skeleton3D" index="0"]
+material_override = SubResource("StandardMaterial3D_ccj5k")

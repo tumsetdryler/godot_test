@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cbsdipv1gs1ij"
+path="res://.godot/imported/SM_Veh_Tank_USA_Destroyed_01.obj-c93c3125d379ff174ccc250e2bcb442f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Veh_Tank_USA_Destroyed_01.obj-c93c3125d379ff174ccc250e2bcb442f.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Veh_Tank_USA_Destroyed_01.obj"
+dest_files=["res://.godot/imported/SM_Veh_Tank_USA_Destroyed_01.obj-c93c3125d379ff174ccc250e2bcb442f.mesh", "res://.godot/imported/SM_Veh_Tank_USA_Destroyed_01.obj-c93c3125d379ff174ccc250e2bcb442f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

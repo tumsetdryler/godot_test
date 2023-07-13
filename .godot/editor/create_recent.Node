@@ -1,0 +1,11 @@
+AnimationPlayer
+AnimationTree
+MeshInstance2D
+MeshInstance3D
+CollisionShape3D
+StaticBody3D
+Node3D
+WorldEnvironment
+DirectionalLight3D
+Camera3D
+CharacterBody3D

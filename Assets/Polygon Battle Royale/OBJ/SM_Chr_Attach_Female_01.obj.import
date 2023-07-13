@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b6nx7hjev4wv4"
+path="res://.godot/imported/SM_Chr_Attach_Female_01.obj-bff166c5e7238df31e788d02343da4ba.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Chr_Attach_Female_01.obj-bff166c5e7238df31e788d02343da4ba.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Chr_Attach_Female_01.obj"
+dest_files=["res://.godot/imported/SM_Chr_Attach_Female_01.obj-bff166c5e7238df31e788d02343da4ba.mesh", "res://.godot/imported/SM_Chr_Attach_Female_01.obj-bff166c5e7238df31e788d02343da4ba.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

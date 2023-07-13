@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://1nl5w2ry553u"
+path="res://.godot/imported/SM_Prop_Iron_Sheet_02.obj-ab253c28603e3ff0ef0f294cab1fce2b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Iron_Sheet_02.obj-ab253c28603e3ff0ef0f294cab1fce2b.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Prop_Iron_Sheet_02.obj"
+dest_files=["res://.godot/imported/SM_Prop_Iron_Sheet_02.obj-ab253c28603e3ff0ef0f294cab1fce2b.mesh", "res://.godot/imported/SM_Prop_Iron_Sheet_02.obj-ab253c28603e3ff0ef0f294cab1fce2b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

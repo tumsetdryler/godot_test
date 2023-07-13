@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://brmlbboh0g72y"
+path="res://.godot/imported/SM_Wep_MachineGun_01.obj-c4d8aa2dffb63fd61829104f6922ab4c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Wep_MachineGun_01.obj-c4d8aa2dffb63fd61829104f6922ab4c.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Wep_MachineGun_01.obj"
+dest_files=["res://.godot/imported/SM_Wep_MachineGun_01.obj-c4d8aa2dffb63fd61829104f6922ab4c.mesh", "res://.godot/imported/SM_Wep_MachineGun_01.obj-c4d8aa2dffb63fd61829104f6922ab4c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

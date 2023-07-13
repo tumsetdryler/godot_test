@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://chl0phm0jq27s"
+path="res://.godot/imported/SM_Env_Road_Straight_Damaged_01.obj-37d59521cf476ccbb74b0c90176dbfce.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Env_Road_Straight_Damaged_01.obj-37d59521cf476ccbb74b0c90176dbfce.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Env_Road_Straight_Damaged_01.obj"
+dest_files=["res://.godot/imported/SM_Env_Road_Straight_Damaged_01.obj-37d59521cf476ccbb74b0c90176dbfce.mesh", "res://.godot/imported/SM_Env_Road_Straight_Damaged_01.obj-37d59521cf476ccbb74b0c90176dbfce.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

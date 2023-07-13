@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cgcbin74bbvvt"
+path="res://.godot/imported/SM_Chr_Attach_Earmuffs_01.obj-4db4492d5327d8b70cd5340ea35ecd3c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Chr_Attach_Earmuffs_01.obj-4db4492d5327d8b70cd5340ea35ecd3c.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Chr_Attach_Earmuffs_01.obj"
+dest_files=["res://.godot/imported/SM_Chr_Attach_Earmuffs_01.obj-4db4492d5327d8b70cd5340ea35ecd3c.mesh", "res://.godot/imported/SM_Chr_Attach_Earmuffs_01.obj-4db4492d5327d8b70cd5340ea35ecd3c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

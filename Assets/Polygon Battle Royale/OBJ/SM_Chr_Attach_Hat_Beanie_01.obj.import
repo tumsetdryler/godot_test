@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bxy02aq4dmumd"
+path="res://.godot/imported/SM_Chr_Attach_Hat_Beanie_01.obj-bddcd2d5b14e21ec698987bb05114cb1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Chr_Attach_Hat_Beanie_01.obj-bddcd2d5b14e21ec698987bb05114cb1.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Chr_Attach_Hat_Beanie_01.obj"
+dest_files=["res://.godot/imported/SM_Chr_Attach_Hat_Beanie_01.obj-bddcd2d5b14e21ec698987bb05114cb1.mesh", "res://.godot/imported/SM_Chr_Attach_Hat_Beanie_01.obj-bddcd2d5b14e21ec698987bb05114cb1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

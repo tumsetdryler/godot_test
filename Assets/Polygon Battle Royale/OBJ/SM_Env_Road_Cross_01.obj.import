@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bleh1x00g3qov"
+path="res://.godot/imported/SM_Env_Road_Cross_01.obj-6dcf002556a7b9330e11758886db52ee.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Env_Road_Cross_01.obj-6dcf002556a7b9330e11758886db52ee.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Env_Road_Cross_01.obj"
+dest_files=["res://.godot/imported/SM_Env_Road_Cross_01.obj-6dcf002556a7b9330e11758886db52ee.mesh", "res://.godot/imported/SM_Env_Road_Cross_01.obj-6dcf002556a7b9330e11758886db52ee.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

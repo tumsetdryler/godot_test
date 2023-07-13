@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://p0hmga0a0y7i"
+path="res://.godot/imported/SM_Wep_Machete_01.obj-613a3a7447145cf7a0a07afa6f2f04ed.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Wep_Machete_01.obj-613a3a7447145cf7a0a07afa6f2f04ed.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Wep_Machete_01.obj"
+dest_files=["res://.godot/imported/SM_Wep_Machete_01.obj-613a3a7447145cf7a0a07afa6f2f04ed.mesh", "res://.godot/imported/SM_Wep_Machete_01.obj-613a3a7447145cf7a0a07afa6f2f04ed.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

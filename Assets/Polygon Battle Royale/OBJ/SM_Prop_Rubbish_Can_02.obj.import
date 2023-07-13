@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://oip8un5noiwv"
+path="res://.godot/imported/SM_Prop_Rubbish_Can_02.obj-25a02ec6814c9f7fd1cb914042a0f96d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Rubbish_Can_02.obj-25a02ec6814c9f7fd1cb914042a0f96d.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Prop_Rubbish_Can_02.obj"
+dest_files=["res://.godot/imported/SM_Prop_Rubbish_Can_02.obj-25a02ec6814c9f7fd1cb914042a0f96d.mesh", "res://.godot/imported/SM_Prop_Rubbish_Can_02.obj-25a02ec6814c9f7fd1cb914042a0f96d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

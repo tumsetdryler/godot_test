@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://xcpjhxieclbp"
+path="res://.godot/imported/SM_Prop_WireFence_02.obj-5e365788bb5f86481abf00739eae12da.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_WireFence_02.obj-5e365788bb5f86481abf00739eae12da.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Prop_WireFence_02.obj"
+dest_files=["res://.godot/imported/SM_Prop_WireFence_02.obj-5e365788bb5f86481abf00739eae12da.mesh", "res://.godot/imported/SM_Prop_WireFence_02.obj-5e365788bb5f86481abf00739eae12da.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

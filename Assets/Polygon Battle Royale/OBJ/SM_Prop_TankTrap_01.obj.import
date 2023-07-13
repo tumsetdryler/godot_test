@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://btjjmx573fe6l"
+path="res://.godot/imported/SM_Prop_TankTrap_01.obj-e10443f259af44b3eeaf01eb811c234f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_TankTrap_01.obj-e10443f259af44b3eeaf01eb811c234f.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Prop_TankTrap_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_TankTrap_01.obj-e10443f259af44b3eeaf01eb811c234f.mesh", "res://.godot/imported/SM_Prop_TankTrap_01.obj-e10443f259af44b3eeaf01eb811c234f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

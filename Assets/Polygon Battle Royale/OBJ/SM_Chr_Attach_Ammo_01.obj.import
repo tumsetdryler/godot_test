@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dgfd3ih3kw5na"
+path="res://.godot/imported/SM_Chr_Attach_Ammo_01.obj-fd0ebd6c4fd0a88504a188748f10f35e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Chr_Attach_Ammo_01.obj-fd0ebd6c4fd0a88504a188748f10f35e.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Chr_Attach_Ammo_01.obj"
+dest_files=["res://.godot/imported/SM_Chr_Attach_Ammo_01.obj-fd0ebd6c4fd0a88504a188748f10f35e.mesh", "res://.godot/imported/SM_Chr_Attach_Ammo_01.obj-fd0ebd6c4fd0a88504a188748f10f35e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

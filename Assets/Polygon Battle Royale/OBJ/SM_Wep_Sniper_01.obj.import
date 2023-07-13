@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bia6welfae5w8"
+path="res://.godot/imported/SM_Wep_Sniper_01.obj-483403dd066df13646c4f3f1131821bf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Wep_Sniper_01.obj-483403dd066df13646c4f3f1131821bf.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Wep_Sniper_01.obj"
+dest_files=["res://.godot/imported/SM_Wep_Sniper_01.obj-483403dd066df13646c4f3f1131821bf.mesh", "res://.godot/imported/SM_Wep_Sniper_01.obj-483403dd066df13646c4f3f1131821bf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

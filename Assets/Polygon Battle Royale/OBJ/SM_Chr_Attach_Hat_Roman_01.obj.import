@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cik6oh2eqf2wq"
+path="res://.godot/imported/SM_Chr_Attach_Hat_Roman_01.obj-b968473dc6bfcf9e918c8cb276f3b421.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Chr_Attach_Hat_Roman_01.obj-b968473dc6bfcf9e918c8cb276f3b421.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Chr_Attach_Hat_Roman_01.obj"
+dest_files=["res://.godot/imported/SM_Chr_Attach_Hat_Roman_01.obj-b968473dc6bfcf9e918c8cb276f3b421.mesh", "res://.godot/imported/SM_Chr_Attach_Hat_Roman_01.obj-b968473dc6bfcf9e918c8cb276f3b421.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

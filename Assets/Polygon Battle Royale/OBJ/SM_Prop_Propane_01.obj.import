@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://u0ls8l4byrwq"
+path="res://.godot/imported/SM_Prop_Propane_01.obj-58a02e30a4bc12b8a6b7de8b2a8c1850.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Propane_01.obj-58a02e30a4bc12b8a6b7de8b2a8c1850.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Prop_Propane_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_Propane_01.obj-58a02e30a4bc12b8a6b7de8b2a8c1850.mesh", "res://.godot/imported/SM_Prop_Propane_01.obj-58a02e30a4bc12b8a6b7de8b2a8c1850.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

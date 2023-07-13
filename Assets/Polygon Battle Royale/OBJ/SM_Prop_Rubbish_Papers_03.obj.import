@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cdu7bc0ppedkm"
+path="res://.godot/imported/SM_Prop_Rubbish_Papers_03.obj-297861e63b424c9818e816e5e90225bc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Rubbish_Papers_03.obj-297861e63b424c9818e816e5e90225bc.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Prop_Rubbish_Papers_03.obj"
+dest_files=["res://.godot/imported/SM_Prop_Rubbish_Papers_03.obj-297861e63b424c9818e816e5e90225bc.mesh", "res://.godot/imported/SM_Prop_Rubbish_Papers_03.obj-297861e63b424c9818e816e5e90225bc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

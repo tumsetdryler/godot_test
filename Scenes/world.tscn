@@ -1,0 +1,46 @@
+[gd_scene load_steps=10 format=3 uid="uid://b8x2bknfso0wy"]
+
+[ext_resource type="PackedScene" uid="uid://t8y1x4cnkf6f" path="res://Scenes/player.tscn" id="1_4g5kf"]
+[ext_resource type="PackedScene" uid="uid://o270xwvb7opg" path="res://Scenes/Environment/sm_env_grass_circle_02.tscn" id="2_rr3q1"]
+[ext_resource type="PackedScene" uid="uid://bcghpgcrc5x75" path="res://Scenes/Environment/sm_env_grass_square_01.tscn" id="3_evoap"]
+[ext_resource type="PackedScene" uid="uid://drthem58kws4r" path="res://Scenes/Environment/sm_bld_house_01.tscn" id="4_1kr0y"]
+[ext_resource type="PackedScene" uid="uid://duhfe537b27cp" path="res://Assets/Polygon Battle Royale/FBX/SM_Bld_Tent_02.fbx" id="5_pi0kp"]
+[ext_resource type="PackedScene" uid="uid://bsornc77ttsw6" path="res://Assets/Polygon Battle Royale/FBX/SM_Bld_Warehouse_01.fbx" id="6_7pse2"]
+
+[sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_ret20"]
+sky_top_color = Color(0.384314, 0.454902, 0.54902, 1)
+
+[sub_resource type="Sky" id="Sky_i01u2"]
+sky_material = SubResource("ProceduralSkyMaterial_ret20")
+process_mode = 1
+radiance_size = 6
+
+[sub_resource type="Environment" id="Environment_ukeje"]
+background_mode = 2
+sky = SubResource("Sky_i01u2")
+
+[node name="World" type="Node3D"]
+
+[node name="Player" parent="." instance=ExtResource("1_4g5kf")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.59126, 0)
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(0.13365, 0.719776, -0.68122, -0.138573, 0.694206, 0.706311, 0.981293, 0, 0.192522, -5.84112, 6.5939, -0.00516891)
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_ukeje")
+
+[node name="SM_Env_Grass_Circle_02" parent="." instance=ExtResource("2_rr3q1")]
+transform = Transform3D(9.48734, 0, 0, 0, 1, 0, 0, 0, 9.48734, -0.226884, 0.323495, -3.93854)
+
+[node name="SM_Env_Grass_Square_01" parent="." instance=ExtResource("3_evoap")]
+transform = Transform3D(5.85029, 0, 0, 0, 1, 0, 0, 0, 5.85029, -0.892439, 0.328147, -83.5485)
+
+[node name="SM_Bld_House_02" parent="." instance=ExtResource("4_1kr0y")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.62802, 3.79897, -23.7504)
+
+[node name="SM_Bld_Tent_02" parent="." instance=ExtResource("5_pi0kp")]
+transform = Transform3D(0.779983, 0, 0.625801, 0, 1, 0, -0.625801, 0, 0.779983, -27.136, 3.83337, -12.5894)
+
+[node name="SM_Bld_Warehouse_01" parent="." instance=ExtResource("6_7pse2")]
+transform = Transform3D(0.726707, 0, -0.686948, 0, 1, 0, 0.686948, 0, 0.726707, 13.9637, 3.44134, -12.3463)

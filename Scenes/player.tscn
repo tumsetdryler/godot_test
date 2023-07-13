@@ -1,0 +1,35 @@
+[gd_scene load_steps=6 format=3 uid="uid://t8y1x4cnkf6f"]
+
+[ext_resource type="Script" path="res://Scripts/Player.gd" id="1_ajwd8"]
+[ext_resource type="PackedScene" uid="uid://b050mtqlm6p7w" path="res://Scenes/sk_chr_military_male_01.tscn" id="2_5pbwc"]
+[ext_resource type="PackedScene" uid="uid://ljblgccuyhjr" path="res://Scenes/sm_wep_rifle_assault_01.tscn" id="3_t3uuv"]
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_wu2j5"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_eyn1u"]
+radius = 0.343542
+height = 1.87879
+
+[node name="Player" type="Node3D"]
+
+[node name="CharacterBody3D" type="CharacterBody3D" parent="."]
+script = ExtResource("1_ajwd8")
+
+[node name="SK_Chr_MilitaryMale_01" parent="CharacterBody3D" instance=ExtResource("2_5pbwc")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, -0.819164, 0)
+visible = false
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="CharacterBody3D"]
+visible = false
+mesh = SubResource("CapsuleMesh_wu2j5")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="CharacterBody3D"]
+transform = Transform3D(1.00081, 0, 0, 0, 1.00081, 0, 0, 0, 1.00081, 0, 0, 0)
+shape = SubResource("CapsuleShape3D_eyn1u")
+
+[node name="MainCamera" type="Camera3D" parent="CharacterBody3D"]
+unique_name_in_owner = true
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.805889, 0)
+
+[node name="SM_Wep_Rifle_Assault_01" parent="CharacterBody3D/MainCamera" instance=ExtResource("3_t3uuv")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0.355, -0.264, -0.307)

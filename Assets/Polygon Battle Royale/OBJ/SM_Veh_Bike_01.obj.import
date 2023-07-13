@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cml0kn5o8mkgm"
+path="res://.godot/imported/SM_Veh_Bike_01.obj-a5d8f0c0438bdb02ef528a09a4d25ba5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Veh_Bike_01.obj-a5d8f0c0438bdb02ef528a09a4d25ba5.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Veh_Bike_01.obj"
+dest_files=["res://.godot/imported/SM_Veh_Bike_01.obj-a5d8f0c0438bdb02ef528a09a4d25ba5.mesh", "res://.godot/imported/SM_Veh_Bike_01.obj-a5d8f0c0438bdb02ef528a09a4d25ba5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dt0w01q2ifxft"
+path="res://.godot/imported/SM_Veh_Truck_01.obj-a5f9eb4d397f7e756f0e0731e2c508ee.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Veh_Truck_01.obj-a5f9eb4d397f7e756f0e0731e2c508ee.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Veh_Truck_01.obj"
+dest_files=["res://.godot/imported/SM_Veh_Truck_01.obj-a5f9eb4d397f7e756f0e0731e2c508ee.mesh", "res://.godot/imported/SM_Veh_Truck_01.obj-a5f9eb4d397f7e756f0e0731e2c508ee.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

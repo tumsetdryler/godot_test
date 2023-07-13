@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bty5mtwvq0k48"
+path="res://.godot/imported/SM_Prop_BaseWall_Broken_02.obj-fa8ad4be74f66e18c47a32cea6c46fec.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_BaseWall_Broken_02.obj-fa8ad4be74f66e18c47a32cea6c46fec.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Prop_BaseWall_Broken_02.obj"
+dest_files=["res://.godot/imported/SM_Prop_BaseWall_Broken_02.obj-fa8ad4be74f66e18c47a32cea6c46fec.mesh", "res://.godot/imported/SM_Prop_BaseWall_Broken_02.obj-fa8ad4be74f66e18c47a32cea6c46fec.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

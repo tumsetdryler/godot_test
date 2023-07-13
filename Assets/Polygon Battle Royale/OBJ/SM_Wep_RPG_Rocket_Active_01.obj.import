@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bfoodbvne3gvx"
+path="res://.godot/imported/SM_Wep_RPG_Rocket_Active_01.obj-df707d8ff310541db32a1fab42a07f05.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Wep_RPG_Rocket_Active_01.obj-df707d8ff310541db32a1fab42a07f05.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Wep_RPG_Rocket_Active_01.obj"
+dest_files=["res://.godot/imported/SM_Wep_RPG_Rocket_Active_01.obj-df707d8ff310541db32a1fab42a07f05.mesh", "res://.godot/imported/SM_Wep_RPG_Rocket_Active_01.obj-df707d8ff310541db32a1fab42a07f05.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://qxgy06it4gn3"
+path="res://.godot/imported/SM_Wep_Bullet_Ammo_Box_01.obj-ad65c9392b80952eab9a6433f8df6f0e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Wep_Bullet_Ammo_Box_01.obj-ad65c9392b80952eab9a6433f8df6f0e.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Wep_Bullet_Ammo_Box_01.obj"
+dest_files=["res://.godot/imported/SM_Wep_Bullet_Ammo_Box_01.obj-ad65c9392b80952eab9a6433f8df6f0e.mesh", "res://.godot/imported/SM_Wep_Bullet_Ammo_Box_01.obj-ad65c9392b80952eab9a6433f8df6f0e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

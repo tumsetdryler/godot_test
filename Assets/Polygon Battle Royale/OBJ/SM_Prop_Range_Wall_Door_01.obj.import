@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://qwdtmst6pv4m"
+path="res://.godot/imported/SM_Prop_Range_Wall_Door_01.obj-3fc08996f559eead1e3eb28103bffc5f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Range_Wall_Door_01.obj-3fc08996f559eead1e3eb28103bffc5f.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Prop_Range_Wall_Door_01.obj"
+dest_files=["res://.godot/imported/SM_Prop_Range_Wall_Door_01.obj-3fc08996f559eead1e3eb28103bffc5f.mesh", "res://.godot/imported/SM_Prop_Range_Wall_Door_01.obj-3fc08996f559eead1e3eb28103bffc5f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

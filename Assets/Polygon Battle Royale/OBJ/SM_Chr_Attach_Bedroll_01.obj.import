@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b8gqinuw5447d"
+path="res://.godot/imported/SM_Chr_Attach_Bedroll_01.obj-5f9196cc7acd91cd16625c5b1c2de6ea.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Chr_Attach_Bedroll_01.obj-5f9196cc7acd91cd16625c5b1c2de6ea.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Chr_Attach_Bedroll_01.obj"
+dest_files=["res://.godot/imported/SM_Chr_Attach_Bedroll_01.obj-5f9196cc7acd91cd16625c5b1c2de6ea.mesh", "res://.godot/imported/SM_Chr_Attach_Bedroll_01.obj-5f9196cc7acd91cd16625c5b1c2de6ea.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

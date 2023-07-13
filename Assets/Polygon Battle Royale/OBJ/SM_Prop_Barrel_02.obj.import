@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ccmin5e0j0mef"
+path="res://.godot/imported/SM_Prop_Barrel_02.obj-f6cbc137dc0463ae5710b397dc0b4fba.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Prop_Barrel_02.obj-f6cbc137dc0463ae5710b397dc0b4fba.mesh"]
+
+source_file="res://Assets/Polygon Battle Royale/OBJ/SM_Prop_Barrel_02.obj"
+dest_files=["res://.godot/imported/SM_Prop_Barrel_02.obj-f6cbc137dc0463ae5710b397dc0b4fba.mesh", "res://.godot/imported/SM_Prop_Barrel_02.obj-f6cbc137dc0463ae5710b397dc0b4fba.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
